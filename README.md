@@ -11,7 +11,7 @@ Création d'une application base de données pour une application où les utilia
 
 
 Pour récupérer notre app rien de plus simple:
-<pre><code> $ git clone https://github.com/thprennes7/rails_blog_Augui</code></pre>
+<pre><code> $ git clone https://github.com/thprennes7/rails_hacking-news_Augui</code></pre>
 
 <pre><code> $ Bundle install</code></pre>
 
